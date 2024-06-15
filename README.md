@@ -17,8 +17,8 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Live URL](https://nextjs.org/docs) - Please see the live url and comments your feedback.
-- [Github Repositoy](https://nextjs.org/learn) - Please see the Github repository.
+- [Live URL](https://shop-center-ten.vercel.app/) - Please see the live url and comments your feedback.
+- [Github Repositoy](https://github.com/Muktadirnayem66/shop-center.git) - Please see the Github repository.
 
 You can check out [GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
